@@ -1,10 +1,10 @@
-# sqrtgradecalculator
-A grade curve calculator for applying the sqrt curve written in html, css, and javascript. 
+Overview: This project features a web-based grade curve calculator that applies the square root curve methodology. It was developed using HTML for structure, CSS for styling, and JavaScript for functionality.
 
-I am attempting to learn html, css, and javascript by using an AI teacher. This was a code along assignment I did with the AI, therefore, the code is AI generated. However, I did not simply copy and paste the AI code into VSCode, isntead, I entered in each line, tracing it, and created quite a bit of bugs along the way, which I had to solve. 
+Development Method: The calculator was created as part of an interactive code-along session guided by an AI instructor. Rather than copying and pasting the provided code, I manually entered each line, intentionally tracing the logic. This process introduced several bugs, which I subsequently debugged, enhancing my understanding of the technologies involved.
 
-Also, as a CS teacher, and a holder of many Python and other coding related certs, I certainly do understand how coding works, but didn't want to go the traditional route for learning these new languages, and decided that I would test the 'future' out. To be honest, I am quite happy with the results so far.
+Learner’s Background: As a computer science educator with multiple certifications in Python and other programming languages, I possess a strong foundation in coding principles. However, to acquire proficiency in HTML, CSS, and JavaScript—skills essential for an upcoming professional role—I opted for an innovative learning approach. Instead of traditional methods, I chose to leverage AI-assisted instruction, finding it aligns effectively with my learning style and yields satisfactory results.
 
-For me, this works, as this is how I learn, and I will need to learn html, css, and javascript for an upcoming job I have.
+AI Assistance Disclosure: While the initial code was generated through AI guidance, the hands-on process of manually implementing and troubleshooting it ensured meaningful skill development. This method reflects my commitment to adapting modern tools for professional growth.
 
-If you do not like that this was a code produced in a code along lesson with AI, please do not use it.
+Note: The code’s origin as part of an AI-supported code-along is transparently acknowledged. Should this approach raise concerns, please refrain from using the project.
+
