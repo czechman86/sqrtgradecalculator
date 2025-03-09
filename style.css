@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+#controlsContainer {
+    margin-top: 20px;
+}
+
+#assignmentsContainer {
+    margin-top: 20px;
+}
+
+.assignment-input {
+    margin-bottom: 10px;
+}
+
+#submitButton, #resetButton {
+    margin-top: 10px;
+    padding: 5px 10px;
+}
+
+table {
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+th {
+    background-color: #f0f0f0;
+}
+
+h3 {
+    margin-top: 20px;
+}
